@@ -26,3 +26,11 @@ Innovative Mapping Solution: The remote sensing methodology offers a precise and
 Demonstrated Climate Finance Acumen: By linking the management of an invasive species to the global climate finance market, the project showcased an understanding of how to generate economic value from environmental stewardship, identifying clear pathways for securing funding through green bonds and carbon credits.
 
 Actionable Sustainability Plan: The pre-pilot report provides a comprehensive and actionable plan for the sustainable management of Prosopis, transforming it from a mere ecological problem into a resource with significant economic and environmental potential.
+
+[Project Prosopis Pre-Pilot.pdf](https://github.com/user-attachments/files/21565632/Project.Prosopis.Pre-Pilot.pdf)
+[Industries using P. Juliflora and Solution to Its Unsteady Supply.pdf](https://github.com/user-attachments/files/21565638/Industries.using.P.Juliflora.and.Solution.to.Its.Unsteady.Supply.pdf)
+[Implementation.pdf](https://github.com/user-attachments/files/21565637/Implementation.pdf)
+[Companies which use Refill pens in Circular Economy.pdf](https://github.com/user-attachments/files/21565636/Companies.which.use.Refill.pens.in.Circular.Economy.pdf)
+[Analysis of Co-Combustion of Prosopis Juliflora.pdf](https://github.com/user-attachments/files/21565635/Analysis.of.Co-Combustion.of.Prosopis.Juliflora.pdf)
+[Refill Pen recycling Detailed Study.pdf](https://github.com/user-attachments/files/21565634/Refill.Pen.recycling.Detailed.Study.pdf)
+
